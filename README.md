@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there! this is Ether Huang 👋
+
+![Milos](https://media.giphy.com/media/SXlmEUowKDP8LX5f3l/giphy.gif)
 
 <!--
 **etheriuman/etheriuman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
