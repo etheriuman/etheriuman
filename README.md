@@ -1,4 +1,4 @@
-### Hi there! this is Ether Huang 👋
+### Welcome to Ether Huang's Github profile 8-)
 
 ![Milos](https://media.giphy.com/media/SXlmEUowKDP8LX5f3l/giphy.gif)
 
