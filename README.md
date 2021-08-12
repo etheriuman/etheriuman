@@ -1,6 +1,6 @@
 ## <img width="50px" src="https://i.imgur.com/uObLbk8.jpg" />Ether #etheriuman
 
-Hey there, I am Ether! A web developer(mostly front-end) based in Taiwan🇹🇼 . Willing to build amazing products, and bring values to people.
+   Hey there, I am Ether! A web developer(mostly front-end) based in Taiwan🇹🇼 . Willing to build amazing products, and bring values to people.
 
 ## 🤓 My values
 🍏 Beginner's mindset and curiosity<br>
