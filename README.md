@@ -15,6 +15,7 @@ Hello, I am Ether! A web developer(mostly front-end) based in Taipei, Taiwan🇹
 - Responsive web design
 - JavaScript(ES6)
 - Vue, Vuex, Vue-Router
+- Web socket
 - Webpack
 - rest API, API planning
 
