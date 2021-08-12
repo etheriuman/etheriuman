@@ -1,6 +1,6 @@
 ## <img width="50px" src="https://i.imgur.com/uObLbk8.jpg" /> Ether #etheriuman
 
-Hello, I am Ether! A web developer(mostly front-end) based in Taipei, Taiwan🇹🇼 . Willing to build amazing products, and bring values to people.
+Hello, I am Ether! A web developer(mostly front-end) based in Taipei, Taiwan🇹🇼 . Willing to build amazing projects and products, and bring values to people.
 
 ![coding gif](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
 
