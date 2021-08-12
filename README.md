@@ -1,14 +1,14 @@
-## <img width="50px" src="https://i.imgur.com/uObLbk8.jpg" />Ether #etheriuman
+## <img width="50px" src="https://i.imgur.com/uObLbk8.jpg" /> Ether #etheriuman
 
-   Hey there, I am Ether! A web developer(mostly front-end) based in Taiwan🇹🇼 . Willing to build amazing products, and bring values to people.
+Hey there, I am Ether! A web developer(mostly front-end) based in Taiwan🇹🇼 . Willing to build amazing products, and bring values to people.
 
 ## 🤓 My values
-🍏 Beginner's mindset and curiosity<br>
-💪 Fearless to solve any problem<br>
+🍏  Beginner's mindset and curiosity<br>
+💪  Fearless to solve any problem<br>
 
 
-## 🧠 Technics
-### 🖥️ Front-ends
+## 🧠  Technics
+### 🖥️  Front-ends
 - HTML5
 - CSS3, SCSS, SASS
 - Bootstrap4
@@ -18,13 +18,13 @@
 - Webpack
 - rest API, API planning
 
-### 🛠️ Full-stacks
+### 🛠️  Full-stacks
 - Node.js
 - Express.js
 - Mongoose, Mongo database
 - Heroku
 
-### 🔧 Others
+### 🔧  Others
 - Git, Git flow
 - NPM
 - Documents reading
@@ -32,7 +32,7 @@
 - Basic Figma usage
 - Design thinking
 
-## 😊 More about me
+## 😊  More about me
 - My site: https://etheriuman.github.io/etherium/
 - Medium: https://etherhuang.medium.com/
 - LinkedIn: https://www.linkedin.com/in/ether-huang-8834231a3/
