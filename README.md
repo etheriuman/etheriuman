@@ -19,8 +19,8 @@ Hey there, I am Ether! A web developer(mostly front-end) based in Taiwan🇹🇼
 - rest API, API planning
 
 ### 🛠️  Full-stacks
-- Node.js
-- Express.js
+- Node
+- Express
 - Mongoose, Mongo database
 - Heroku
 
