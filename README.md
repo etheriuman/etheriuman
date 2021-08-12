@@ -1,4 +1,5 @@
-## <img width="50px" src="https://i.imgur.com/uObLbk8.jpg" /><br> Ether #etheriuman
+## <img width="50px" src="https://i.imgur.com/uObLbk8.jpg" /><br><br>
+Ether #etheriuman
 
 Hello, I am Ether! A web developer(mostly front-end) based in Taipei, Taiwan🇹🇼 .<br>As a beginner I am seeking to learn. Willing to build amazing projects and products, and bring values to people.
 
