@@ -28,7 +28,7 @@ Hello, I am Ether! A web developer(mostly front-end) based in Taipei, Taiwan🇹
 - Mongoose, Mongo database
 - Heroku
 
-### 🔧  Others
+### 🔧  More
 - Git, Git flow
 - NPM
 - Documents reading
