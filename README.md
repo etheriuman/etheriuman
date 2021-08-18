@@ -2,7 +2,7 @@
 
 Hello, I am Ether! A web developer(mostly front-end) based in Taipei, Taiwan🇹🇼 .<br>As a beginner I am seeking to learn. Willing to build amazing projects and products, and bring values to people.
 
-![coding gif](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
+![coding-man cartoon gif](https://media.giphy.com/media/1C8bHHJturSx2/giphy.gif)
 
 
 ## 🤓 My values
