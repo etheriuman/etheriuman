@@ -7,7 +7,7 @@ Hello, I am Ether! A web developer(mostly front-end) based in Taipei, Taiwan🇹
 
 ## 🤓 My values
 🍏  Beginner's mindset and curiosity<br>
-💪  Fearless to solve any problem<br>
+💪  Fearless to face any challange<br>
 
 
 ## 🧠  Technics
