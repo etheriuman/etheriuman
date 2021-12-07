@@ -14,13 +14,13 @@ Hello, I am Ether! A web developer(mostly front-end) based in Taipei, Taiwan🇹
 ### 🖥️  Front-ends
 - HTML5
 - CSS3, SCSS, SASS
-- Bootstrap4
+- Bootstrap4, Vuetify
 - Responsive web design
 - JavaScript(ES6)
 - Vue, Vuex, Vue-Router
 - Web socket
-- Webpack
-- rest API, API planning
+- Webpack configs..
+- REST API
 
 ### 🛠️  Full-stacks
 - Node
