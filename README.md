@@ -32,7 +32,7 @@ Hello, I am Ether! A web developer(mostly front-end) based in Taipei, Taiwan🇹
 - Git, Git flow
 - NPM
 - Documents reading
-- UX mindset
+- UI/UX mindset
 - Basic Figma usage
 - Design thinking
 
